@@ -1,5 +1,6 @@
 package main
 
+
 type BridgedToken struct {
 	Name            string `json:"name"`
 	Symbol          string `json:"symbol"`
