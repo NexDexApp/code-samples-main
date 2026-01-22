@@ -4,6 +4,7 @@
     "inputs": [],
     "name": "LogBridgeActivated",
     "type": "event"
+    
   },
   {
     "anonymous": false,
