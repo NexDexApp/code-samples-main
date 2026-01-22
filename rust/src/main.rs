@@ -45,6 +45,7 @@ async fn main() {
         .subscribe(
             nexdex::ws::Channel::Fills {
                 market_symbol: None,
+                
             },
             Box::new(|message| info!("Received fill {message:?}")),
         )
