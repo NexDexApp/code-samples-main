@@ -11,6 +11,7 @@ const DOMAIN_TYPES = {
   ],
 };
 
+
 export function buildnexdexDomain(starknetChainId: string) {
   return {
     name: "nexdex",
