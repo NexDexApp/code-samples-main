@@ -5,6 +5,7 @@ import time
 import traceback
 from typing import Dict, List
 
+
 import aiohttp
 from starknet_py.common import int_from_bytes
 from utils import (
