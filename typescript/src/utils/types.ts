@@ -5,6 +5,7 @@ export interface SystemConfig {
   };
 }
 
+
 export interface Account {
   address: string;
   publicKey: string;
