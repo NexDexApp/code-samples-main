@@ -76,6 +76,7 @@ L2 private key is also used to generate auth, onboarding and order signatures.
 Auth endpoint also requires providing the Ethereum address which is derived
 from the Ethereum private key in examples of some languages.
 
+
 During the onboarding process, an Account Contract is deployed on Starknet
 with the Starknet public key. This account contract address is used to identify
 token and perpetual balances on chain.
