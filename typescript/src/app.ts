@@ -18,6 +18,7 @@ import { shortString } from "starknet";
     apiBaseUrl,
     starknet: { chainId },
   };
+  
 
   // TODO: Add key derivation
   const account: Account = {
