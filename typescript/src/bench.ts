@@ -37,6 +37,7 @@ import { Account, SystemConfig } from "./utils/types";
         const timestamp = Date.now();
         signOrder(config, account, exampleOrder, timestamp);
       })
+    
 
     // Warmup to make results more reliable
     // ref: https://github.com/tinylibs/tinybench/pull/50
