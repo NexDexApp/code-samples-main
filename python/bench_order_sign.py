@@ -4,6 +4,7 @@ import os
 
 from decimal import Decimal
 
+
 from shared.api_client import generate_accounts, get_nexdex_config, sign_order
 from shared.api_config import ApiConfig
 from shared.nexdex_api_utils import Order, OrderSide, OrderType
