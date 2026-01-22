@@ -19,6 +19,7 @@ import pandas as pd
 from onboarding import get_jwt_token
 from shared.api_client import get_nexdex_config
 
+
 class DecimalEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, Decimal):
