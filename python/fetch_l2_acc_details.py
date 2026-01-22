@@ -6,7 +6,6 @@ from shared.api_client import get_nexdex_config
 from utils import (
     generate_nexdex_account,
     get_l1_eth_account,
-
 )
 
 nexdex_http_url = "https://api.testnet.nexdex.trade/v1"
