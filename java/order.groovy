@@ -4,6 +4,7 @@
     @Grab('org.apache.commons:commons-math3:3.6.1'),
     @Grab('org.codehaus.groovy.modules.http-builder:http-builder:0.7'),
 ])
+
 package com.nexdex.api.rest
 
 import com.swmansion.starknet.data.TypedData
