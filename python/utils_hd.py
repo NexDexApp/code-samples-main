@@ -35,6 +35,7 @@ def derive_stark_key_from_ledger(message: str, eth_account_address: str) -> int:
     message_signature = sign_stark_key_message_ledger(signable_message, eth_account_address)
     private_key = get_private_key_from_eth_signature(message_signature)
     return private_key
+    
 
 
 def generate_nexdex_account_from_ledger(
