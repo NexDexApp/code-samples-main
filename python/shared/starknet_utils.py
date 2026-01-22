@@ -2,6 +2,7 @@ import re
 from enum import Enum
 from typing import Callable, Optional
 
+
 from starknet_py.common import int_from_bytes
 from starknet_py.constants import RPC_CONTRACT_ERROR
 from starknet_py.hash.selector import get_selector_from_name
