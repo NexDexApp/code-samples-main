@@ -1,5 +1,6 @@
 from typing import List, Union, cast
 
+
 from starknet_py.cairo.felt import encode_shortstring
 from starknet_py.utils.typed_data import (
     TypedData as StarknetTypedDataDataclass,
