@@ -2,6 +2,7 @@
 Description:
     nexdex client. To be replaced by generated stubs
 """
+
 import ipaddress
 import os
 
