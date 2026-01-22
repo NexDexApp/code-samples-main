@@ -52,6 +52,7 @@ if __name__ == "__main__":
         level=os.getenv("LOGGING_LEVEL", "INFO"),
         format="%(asctime)s.%(msecs)03d | %(levelname)s | %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S",
+        
     )
 
     # Load environment variables
