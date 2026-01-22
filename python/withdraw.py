@@ -105,6 +105,7 @@ async def withdraw_from_l1_bridge(
         "nonce": nonce,
         "type": 2,
     }
+    
     withdraw_tx = l1_contract.functions.withdraw(
         amount * 10**usdc_decimals, l1_recipient
     ).build_transaction(tx)
