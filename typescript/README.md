@@ -33,6 +33,7 @@ yarn run bench
 │ 0       │ 'signs/sec' │ '50'    │ 19777384.0392157  │ '±0.28%' │ 51      │
 └─────────┴─────────────┴─────────┴───────────────────┴──────────┴─────────┘
 ```
+
 ---
 [^1]: To find this value go to https://voyager.prod.nexdex.trade/, search for your nexdex Account, and under Contract data choose the *getSigner* function from Read Contract
 [^2]: This is available directly in nexdex. **PLEASE NEVER SHARE THIS WITH ANYONE EVEN IF THEY SAY THEY WORK FOR nexdex**
