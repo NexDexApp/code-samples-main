@@ -1,4 +1,5 @@
 /* groovylint-disable LineLength */
+
 @Grapes([
     @Grab('org.bouncycastle:bcprov-jdk18on:1.77'),
 ])
