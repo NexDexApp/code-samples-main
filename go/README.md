@@ -4,6 +4,7 @@
 
 This example can be run directly or with Docker.
 
+
 ### Requirements
 
 You will need a private key of the Ethereum account that will control your nexdex account. Refer to [how to export an account's private key on MetaMask](https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key).
