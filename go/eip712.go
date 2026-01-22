@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"strconv"
 	
-
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"
