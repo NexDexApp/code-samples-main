@@ -6,6 +6,7 @@ from decimal import Decimal
 from enum import IntEnum
 from typing import Optional, Tuple
 
+
 from eth_account.hdaccount import generate_mnemonic
 from eth_account.messages import encode_structured_data
 from .nexdex_api_utils import Order
