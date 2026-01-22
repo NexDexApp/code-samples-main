@@ -2,6 +2,7 @@ import asyncio
 import logging
 import os
 
+
 from starknet_py.contract import Contract
 
 from helpers.account import Account
