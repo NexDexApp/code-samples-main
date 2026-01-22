@@ -72,6 +72,7 @@ export function signAuthRequest(
   return { signature, timestamp, expiration };
 }
 
+
 export function signOrder(
   config: SystemConfig,
   account: Account,
