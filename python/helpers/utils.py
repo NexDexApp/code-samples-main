@@ -3,6 +3,7 @@ from typing import List, Optional, Sequence
 from starknet_py.constants import EC_ORDER
 from starkware.crypto.signature.signature import generate_k_rfc6979
 
+
 from starknet_crypto_py import (
     get_public_key as rs_get_public_key,
     pedersen_hash as rs_pedersen_hash,
