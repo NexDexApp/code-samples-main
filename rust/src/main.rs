@@ -3,7 +3,7 @@ use std::time::Duration;
 use log::info;
 use nexdex::{
     rest::Client,
-    structs::{OrderRequest, OrderType, Side},
+    structs::{OrderRequest, OrderType, Side}, 
     url::URL,
 };
 use rust_decimal::{prelude::FromPrimitive, Decimal};
