@@ -3,7 +3,7 @@ import {
   createOrder,
   getAccountInfo,
   getOpenOrders,
-  listAvailableMarkets,
+  listAvailableMarkets, 
   onboardUser,
 } from "./utils/api";
 import { Account, SystemConfig } from "./utils/types";
