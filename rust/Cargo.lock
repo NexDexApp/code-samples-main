@@ -2,7 +2,7 @@
 # It is not intended for manual editing.
 version = 4
 
-[[package]]
+[[package]] 
 name = "addr2line"
 version = "0.24.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
