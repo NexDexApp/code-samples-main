@@ -4,7 +4,7 @@ go 1.20
 
 
 require (
-	github.com/consensys/gnark-crypto v0.12.1
+	github.com/consensys/gnark-crypto v0.12.1 
 	github.com/dontpanicdao/caigo v0.4.1
 	github.com/ethereum/go-ethereum v1.12.1
 	github.com/shopspring/decimal v1.3.1
