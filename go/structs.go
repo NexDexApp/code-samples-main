@@ -2,7 +2,7 @@ package main
 
 
 type BridgedToken struct {
-	Name            string `json:"name"`
+	Name            string `json:"name"` 
 	Symbol          string `json:"symbol"`
 	Decimals        int    `json:"decimals"`
 	L1TokenAddress  string `json:"l1_token_address"`
