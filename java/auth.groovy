@@ -4,7 +4,7 @@
     @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.7'),
 ])
 
-package com.nexdex.api.rest
+package com.nexdex.api.rest 
 
 import com.swmansion.starknet.data.TypedData
 import com.swmansion.starknet.data.types.Felt
